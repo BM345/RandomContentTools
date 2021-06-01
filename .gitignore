@@ -7,3 +7,5 @@ chemistryWorksheetTitles.txt
 3DGraphing/include/*
 3DGraphing/lib/*
 3DGraphing/pyvenv.cfg
+.DS_Store
+*.pyc
